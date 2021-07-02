@@ -1,0 +1,15 @@
+{
+    "Authors": [
+        "Beau Sievers",
+        "Carolyn Parkinson",
+        "Peter J. Kohler",
+        "James Hughes",
+        "Sergey V. Fogelson",
+        "Thalia Wheatley"
+    ],
+    "BIDSVersion": "1.4.0",
+    "Name": "MVPA Bouncing Ball",
+    "ReferencesAndLinks": [
+        "https://www.biorxiv.org/content/10.1101/254961v2"
+    ]
+}
